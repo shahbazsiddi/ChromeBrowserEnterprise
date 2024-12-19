@@ -22,7 +22,7 @@
  <array>
  <dict>
  <key>CloudManagementEnrollmentToken</key>
- <string>XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX</string>
+ <string>3cc6bdf1-caa8-4c10-8928-15f33d06333f</string>
  <key>CloudManagementEnrollmentMandatory</key>
  <true/>
  <key>PayloadEnabled</key>
